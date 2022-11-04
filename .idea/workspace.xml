@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fdf3a3c3-006f-45c5-a3e7-2fdb9a505b76" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Programowanie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00 Test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00 Test/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00 Test/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01 Suma_dwóch_liczb/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01 Suma_dwóch_liczb/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01 Suma_dwóch_liczb/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02 Operacje_matematyczne/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02 Operacje_matematyczne/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02 Operacje_matematyczne/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03 Powitanie_z_formularzem/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03 Powitanie_z_formularzem/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03 Powitanie_z_formularzem/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04 Obliczanie_pola_obwodu_prostokąta/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04 Obliczanie_pola_obwodu_prostokąta/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04 Obliczanie_pola_obwodu_prostokąta/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Średnia_arytmetyczna_czterech_liczb/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Średnia_arytmetyczna_czterech_liczb/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Średnia_arytmetyczna_czterech_liczb/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06 Iloraz_dwoch_liczb/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06 Iloraz_dwoch_liczb/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06 Iloraz_dwoch_liczb/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 Suma_różnica_iloczyn_iloraz_liczb_całkowitych/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 Suma_różnica_iloczyn_iloraz_liczb_całkowitych/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 Suma_różnica_iloczyn_iloraz_liczb_całkowitych/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08 Przeliczanie_czasu/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08 Przeliczanie_czasu/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08 Przeliczanie_czasu/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08 Przeliczanie_czasu/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09 Cale/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09 Cale/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09 Cale/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Przykłady/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Przykłady/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T01 Zasady_programowania/img/instrukcja.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T01 Zasady_programowania/img/lacznik.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T01 Zasady_programowania/img/lacznikmiedzy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T01 Zasady_programowania/img/proces.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T01 Zasady_programowania/img/start.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T01 Zasady_programowania/img/stop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T01 Zasady_programowania/img/strzalka.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T01 Zasady_programowania/img/warunek.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T01 Zasady_programowania/img/wczytaj.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T01 Zasady_programowania/img/wyswietl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T01 Zasady_programowania/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T01 Zasady_programowania/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nazwa/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nazwa/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nazwa/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2GR9k8BGMesNqpmcZ6s0G8xNhIM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdf3a3c3-006f-45c5-a3e7-2fdb9a505b76" name="Default Changelist" comment="" />
+      <created>1666340670382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666340670382</updated>
+      <workItem from="1666340671420" duration="234000" />
+      <workItem from="1666850908811" duration="636000" />
+      <workItem from="1666851631391" duration="7371000" />
+      <workItem from="1666943476677" duration="2261000" />
+      <workItem from="1667459611404" duration="6606000" />
+      <workItem from="1667551898894" duration="745000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="437" y="188" key="#Notifications" timestamp="1667552649252">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="188" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1667552649252" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1666943681929">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1666943681929" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1667552634552">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1667552634552" />
+    <state x="522" y="262" key="Github.ShareDialog" timestamp="1667552514891">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="522" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1667552514891" />
+    <state x="452" y="69" key="Github.UntrackedFilesDialog" timestamp="1667552385956">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="452" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1667552385956" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1666944823974">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1666944823974" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1667552598594">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1667552598594" />
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1667552577946">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1667552577946" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1666851104246">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1666851104246" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1666944675650">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1666944675650" />
+  </component>
+</project>
