@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdf3a3c3-006f-45c5-a3e7-2fdb9a505b76" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fdf3a3c3-006f-45c5-a3e7-2fdb9a505b76" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +57,7 @@
       <workItem from="1666851631391" duration="7371000" />
       <workItem from="1666943476677" duration="2261000" />
       <workItem from="1667459611404" duration="6606000" />
-      <workItem from="1667551898894" duration="1678000" />
+      <workItem from="1667551898894" duration="2045000" />
     </task>
     <task id="LOCAL-00001" summary="dziala?">
       <created>1667552819970</created>
@@ -68,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667552819970</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="doadne z10">
+      <created>1667553893491</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667553893491</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,7 +81,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dziala?" />
-    <option name="LAST_COMMIT_MESSAGE" value="dziala?" />
+    <MESSAGE value="doadne z10" />
+    <option name="LAST_COMMIT_MESSAGE" value="doadne z10" />
   </component>
   <component name="WindowStateProjectService">
     <state x="437" y="188" key="#Notifications" timestamp="1667552649252">
@@ -91,10 +97,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1667552634552" />
-    <state x="522" y="262" key="Github.ShareDialog" timestamp="1667552514891">
+    <state x="522" y="262" key="Github.ShareDialog" timestamp="1667553950714">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="522" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1667552514891" />
+    <state x="522" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1667553950714" />
     <state x="452" y="69" key="Github.UntrackedFilesDialog" timestamp="1667552385956">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
