@@ -38,9 +38,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
-        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -84,7 +84,7 @@
       <workItem from="1667459611404" duration="6606000" />
       <workItem from="1667551898894" duration="2306000" />
       <workItem from="1668063975107" duration="1236000" />
-      <workItem from="1668065310844" duration="1773000" />
+      <workItem from="1668065310844" duration="3973000" />
     </task>
     <task id="LOCAL-00001" summary="dziala?">
       <created>1667552819970</created>
@@ -114,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668065025545</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="z11">
+      <created>1668067459777</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668067459777</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,7 +149,8 @@
     <MESSAGE value="dziala?" />
     <MESSAGE value="doadne z10" />
     <MESSAGE value="xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="xml" />
+    <MESSAGE value="z11" />
+    <option name="LAST_COMMIT_MESSAGE" value="z11" />
   </component>
   <component name="WindowStateProjectService">
     <state x="437" y="188" key="#Notifications" timestamp="1667552649252">
@@ -157,10 +165,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1667552634552" />
-    <state x="522" y="262" width="321" height="260" key="Github.ShareDialog" timestamp="1668064981792">
+    <state x="522" y="262" width="321" height="260" key="Github.ShareDialog" timestamp="1668067431978">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="522" y="262" width="321" height="260" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1668064981792" />
+    <state x="522" y="262" width="321" height="260" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1668067431978" />
     <state x="452" y="69" key="Github.UntrackedFilesDialog" timestamp="1667552385956">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -173,10 +181,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1666944823974" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1668065080563">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1668067466417">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1668065080563" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1668067466417" />
     <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1667552577946">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
