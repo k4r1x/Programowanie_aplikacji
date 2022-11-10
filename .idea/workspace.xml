@@ -19,7 +19,12 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdf3a3c3-006f-45c5-a3e7-2fdb9a505b76" name="Default Changelist" comment="doadne z10">
@@ -78,7 +83,8 @@
       <workItem from="1666943476677" duration="2261000" />
       <workItem from="1667459611404" duration="6606000" />
       <workItem from="1667551898894" duration="2306000" />
-      <workItem from="1668063975107" duration="727000" />
+      <workItem from="1668063975107" duration="1236000" />
+      <workItem from="1668065310844" duration="1773000" />
     </task>
     <task id="LOCAL-00001" summary="dziala?">
       <created>1667552819970</created>
@@ -101,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667553970689</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="xml">
+      <created>1668065025545</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668065025545</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,16 +125,24 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dziala?" />
     <MESSAGE value="doadne z10" />
-    <option name="LAST_COMMIT_MESSAGE" value="doadne z10" />
+    <MESSAGE value="xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="xml" />
   </component>
   <component name="WindowStateProjectService">
     <state x="437" y="188" key="#Notifications" timestamp="1667552649252">
@@ -136,22 +157,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1667552634552" />
-    <state x="522" y="262" key="Github.ShareDialog" timestamp="1668064694326">
+    <state x="522" y="262" width="321" height="260" key="Github.ShareDialog" timestamp="1668064981792">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="522" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1668064694326" />
+    <state x="522" y="262" width="321" height="260" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1668064981792" />
     <state x="452" y="69" key="Github.UntrackedFilesDialog" timestamp="1667552385956">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="452" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1667552385956" />
+    <state x="433" y="66" key="RollbackChangesDialog" timestamp="1668064997435">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="433" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1668064997435" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1666944823974">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1666944823974" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1667554017967">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1668065080563">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1667554017967" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1668065080563" />
     <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1667552577946">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
