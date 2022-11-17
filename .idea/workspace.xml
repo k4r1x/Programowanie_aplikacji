@@ -29,8 +29,8 @@
   <component name="ChangeListManager">
     <list default="true" id="fdf3a3c3-006f-45c5-a3e7-2fdb9a505b76" name="Default Changelist" comment="doadne z10">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12 Liczby_pseudolosowe/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/12 Liczby_pseudolosowe/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12 Liczby_pseudolosowe/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/12 Liczby_pseudolosowe/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11 Obliczanie_procentu.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programowanie_aplikacji.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Programowanie_aplikacji.zip" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -88,6 +88,9 @@
       <workItem from="1668063975107" duration="1236000" />
       <workItem from="1668065310844" duration="3992000" />
       <workItem from="1668070155334" duration="990000" />
+      <workItem from="1668071207457" duration="1119000" />
+      <workItem from="1668668818942" duration="184000" />
+      <workItem from="1668669131695" duration="7697000" />
     </task>
     <task id="LOCAL-00001" summary="dziala?">
       <created>1667552819970</created>
@@ -131,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668069342364</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="test czy zadziala nqreszcie">
+      <created>1668071587249</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668071587249</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,25 +170,26 @@
     <MESSAGE value="doadne z10" />
     <MESSAGE value="xml" />
     <MESSAGE value="z11" />
-    <option name="LAST_COMMIT_MESSAGE" value="z11" />
+    <MESSAGE value="test czy zadziala nqreszcie" />
+    <option name="LAST_COMMIT_MESSAGE" value="test czy zadziala nqreszcie" />
   </component>
   <component name="WindowStateProjectService">
     <state x="437" y="188" key="#Notifications" timestamp="1667552649252">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="437" y="188" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1667552649252" />
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1668064616990">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1668669011172">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1668064616990" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1668669011172" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1667552634552">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1667552634552" />
-    <state x="522" y="262" width="321" height="260" key="Github.ShareDialog" timestamp="1668071150903">
+    <state x="522" y="262" width="321" height="260" key="Github.ShareDialog" timestamp="1668669811883">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="522" y="262" width="321" height="260" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1668071150903" />
+    <state x="522" y="262" width="321" height="260" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1668669811883" />
     <state x="452" y="69" key="Github.UntrackedFilesDialog" timestamp="1667552385956">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -187,18 +198,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="433" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1668064997435" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1666944823974">
+    <state x="184" y="9" key="SettingsEditor" timestamp="1668071460939">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1666944823974" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1668069344210">
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1668071460939" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1668071593887">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1668069344210" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1668071593887" />
     <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1667552577946">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1667552577946" />
+    <state x="448" y="245" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1668676232260">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="448" y="245" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1668676232260" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1666851104246">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
