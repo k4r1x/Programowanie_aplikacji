@@ -1,0 +1,1 @@
+document.write(tab3[2]);
