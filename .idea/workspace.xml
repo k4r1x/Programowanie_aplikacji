@@ -27,123 +27,21 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdf3a3c3-006f-45c5-a3e7-2fdb9a505b76" name="Default Changelist" comment="24 listopad">
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_10/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_11/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_11/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_12/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_12/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_13/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_13/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_14/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_14/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_15/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_15/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_16/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_17/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_18/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_19/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_2/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_20/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_21/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_22/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_23/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_24/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_25/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_26/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_27/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_28/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_29/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_29/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_3/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_30/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_31/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_32/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_32/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_33/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_34/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_35/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_36/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_36/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_37/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_38/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_38/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_39/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_39/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_4/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_4/spis.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_40/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_40/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_41/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_42/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_42/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_43/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_43/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_44/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_45/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_45/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_46/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_46/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_47/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_47/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_48/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_48/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_49/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_49/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_5/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_50/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_50/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_51/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_51/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_52/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_52/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_53/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_53/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_54/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_54/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_55/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_55/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_56/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_56/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_57/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_57/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_58/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_58/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_59/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_59/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_6/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_60/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_60/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_61/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_61/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_62/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_62/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_63/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_63/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_64/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_64/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_65/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_65/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_66/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_66/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_67/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_67/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_68/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_68/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_69/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_7/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_7/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_70/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_8/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_8/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_9/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przykłady_z_podręcznika/Przykład_3_9/script.js" afterDir="false" />
+    <list default="true" id="fdf3a3c3-006f-45c5-a3e7-2fdb9a505b76" name="Default Changelist" comment="zadanie dodatkowe">
+      <change afterPath="$PROJECT_DIR$/43 Liczba_dwucyfrowa/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/43 Liczba_dwucyfrowa/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/43 Liczba_dwucyfrowa/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/44 Rok_przestepny/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/44 Rok_przestepny/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/44 Rok_przestepny/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/59 Oceny_z_testów/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/59 Oceny_z_testów/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/59 Oceny_z_testów/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/60 Dni_tygodnia/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/60 Dni_tygodnia/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/60 Dni_tygodnia/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/83 Pętle_blok_znaków/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/83 Pętle_blok_znaków/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -173,6 +71,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2GR9k8BGMesNqpmcZ6s0G8xNhIM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -181,17 +82,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;js.last.introduce.type&quot;: &quot;LET&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "js.last.introduce.type": "LET",
+    "list.type.of.created.stylesheet": "CSS",
+    "settings.editor.selected.configurable": "editor.preferences.tabs",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -213,7 +115,8 @@
       <workItem from="1668668818942" duration="184000" />
       <workItem from="1668669131695" duration="7697000" />
       <workItem from="1669274297113" duration="7603000" />
-      <workItem from="1669878598542" duration="7997000" />
+      <workItem from="1669878598542" duration="8262000" />
+      <workItem from="1670483206556" duration="8010000" />
     </task>
     <task id="LOCAL-00001" summary="dziala?">
       <created>1667552819970</created>
@@ -285,7 +188,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669282244856</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="duzo pracy">
+      <created>1669886897278</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1669886897278</updated>
+    </task>
+    <task id="LOCAL-00012" summary="zadanie dodatkowe">
+      <created>1670483274817</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1670483274817</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,6 +232,8 @@
     <MESSAGE value="z11" />
     <MESSAGE value="test czy zadziala nqreszcie" />
     <MESSAGE value="24 listopad" />
-    <option name="LAST_COMMIT_MESSAGE" value="24 listopad" />
+    <MESSAGE value="duzo pracy" />
+    <MESSAGE value="zadanie dodatkowe" />
+    <option name="LAST_COMMIT_MESSAGE" value="zadanie dodatkowe" />
   </component>
 </project>
