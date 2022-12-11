@@ -1,4 +1,3 @@
-console.log('test');
 const liczba_a = document.querySelector('#liczba_a');
 const liczba_b = document.querySelector('#liczba_b');
 const wynik = document.querySelector('#wynik');
