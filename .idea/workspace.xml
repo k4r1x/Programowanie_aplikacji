@@ -27,13 +27,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdf3a3c3-006f-45c5-a3e7-2fdb9a505b76" name="Default Changelist" comment="2 zadania T">
-      <change afterPath="$PROJECT_DIR$/T22 Funkcje/Zadanie_T221.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T22 Funkcje/Zadanie_T222.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T22 Funkcje/Zadanie_T223.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T22 Funkcje/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T22 Funkcje/script_T223.js" afterDir="false" />
+    <list default="true" id="fdf3a3c3-006f-45c5-a3e7-2fdb9a505b76" name="Default Changelist" comment="t22x">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T22 Funkcje/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/T22 Funkcje/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T22 Funkcje/script_T223.js" beforeDir="false" afterPath="$PROJECT_DIR$/T22 Funkcje/script_T223.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +111,8 @@
       <workItem from="1670483206556" duration="8010000" />
       <workItem from="1670794169126" duration="3569000" />
       <workItem from="1671088621495" duration="5074000" />
-      <workItem from="1671181353707" duration="1583000" />
+      <workItem from="1671181353707" duration="1708000" />
+      <workItem from="1671693057669" duration="122000" />
     </task>
     <task id="LOCAL-00001" summary="dziala?">
       <created>1667552819970</created>
@@ -207,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671090386330</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="t22x">
+      <created>1671183067969</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1671183067969</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,6 +245,7 @@
     <MESSAGE value="duzo pracy" />
     <MESSAGE value="zadanie dodatkowe" />
     <MESSAGE value="2 zadania T" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 zadania T" />
+    <MESSAGE value="t22x" />
+    <option name="LAST_COMMIT_MESSAGE" value="t22x" />
   </component>
 </project>

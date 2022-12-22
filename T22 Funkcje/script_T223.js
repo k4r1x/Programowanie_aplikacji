@@ -1,15 +1,14 @@
-const liczbaMies = document.querySelector('#liczbaMies');
+const liczbaMiesiaca = document.querySelector('#liczbaMies');
 const wynik = document.querySelector('#wynik');
 const btn = document.querySelector('button');
 
-let mies = parseInt(liczbaMies.value);
-
 btn.addEventListener('click', function(){
-    wynik.innerHTML = `Miesiąc o liczbię ${mies} to ${funkcjaMiesiac(mies)}`;
+    let miesiac = parseInt(liczbaMiesiaca.value);
+    wynik.innerHTML = funMiesiac(miesiac);
 });
 
-function funkcjaMiesiac(x){
-    switch(x){
+function funMiesiac(miesiac){
+    switch(miesiac){
         case 1:
             return "Styczeń";
         case 2:
