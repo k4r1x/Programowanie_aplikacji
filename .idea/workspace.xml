@@ -27,10 +27,14 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdf3a3c3-006f-45c5-a3e7-2fdb9a505b76" name="Default Changelist" comment="t22x">
+    <list default="true" id="fdf3a3c3-006f-45c5-a3e7-2fdb9a505b76" name="Default Changelist" comment="funkcjeT">
+      <change afterPath="$PROJECT_DIR$/T22 Funkcje/Zadanie_T224.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T22 Funkcje/Zadanie_T225.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T22 Funkcje/script_T224.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T22 Funkcje/script_T225.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T22 Funkcje/style_T224.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T22 Funkcje/style_T225.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/T22 Funkcje/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/T22 Funkcje/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/T22 Funkcje/script_T223.js" beforeDir="false" afterPath="$PROJECT_DIR$/T22 Funkcje/script_T223.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +44,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -112,7 +116,7 @@
       <workItem from="1670794169126" duration="3569000" />
       <workItem from="1671088621495" duration="5074000" />
       <workItem from="1671181353707" duration="1708000" />
-      <workItem from="1671693057669" duration="122000" />
+      <workItem from="1671693057669" duration="2662000" />
     </task>
     <task id="LOCAL-00001" summary="dziala?">
       <created>1667552819970</created>
@@ -212,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671183067969</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="funkcjeT">
+      <created>1671693413431</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1671693413431</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,6 +257,7 @@
     <MESSAGE value="zadanie dodatkowe" />
     <MESSAGE value="2 zadania T" />
     <MESSAGE value="t22x" />
-    <option name="LAST_COMMIT_MESSAGE" value="t22x" />
+    <MESSAGE value="funkcjeT" />
+    <option name="LAST_COMMIT_MESSAGE" value="funkcjeT" />
   </component>
 </project>

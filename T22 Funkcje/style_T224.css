@@ -1,0 +1,13 @@
+body{
+    background-color: khaki;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#wieksze{
+    color: red;
+}
+#mniejszy{
+    color: green;
+}
+#rowne{
+    color: blue;
+}
