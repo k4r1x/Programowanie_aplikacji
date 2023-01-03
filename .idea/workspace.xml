@@ -28,8 +28,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdf3a3c3-006f-45c5-a3e7-2fdb9a505b76" name="Default Changelist" comment="BMI">
+      <change afterPath="$PROJECT_DIR$/T24 Funkcje_wbudowane/data_czas/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T24 Funkcje_wbudowane/data_czas/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T24 Funkcje_wbudowane/data_czas/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/103 BMI/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/103 BMI/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +114,8 @@
       <workItem from="1671088621495" duration="5074000" />
       <workItem from="1671181353707" duration="1708000" />
       <workItem from="1671693057669" duration="3718000" />
-      <workItem from="1672646710894" duration="3207000" />
+      <workItem from="1672646710894" duration="4143000" />
+      <workItem from="1672746450355" duration="2245000" />
     </task>
     <task id="LOCAL-00001" summary="dziala?">
       <created>1667552819970</created>
@@ -233,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672648588965</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="BMI">
+      <created>1672650311055</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1672650311055</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
