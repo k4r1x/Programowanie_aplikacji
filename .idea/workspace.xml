@@ -27,9 +27,16 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdf3a3c3-006f-45c5-a3e7-2fdb9a505b76" name="Default Changelist" comment="czas">
+    <list default="true" id="fdf3a3c3-006f-45c5-a3e7-2fdb9a505b76" name="Default Changelist" comment="Poprawiona data_czas">
+      <change afterPath="$PROJECT_DIR$/T24 Formatowanie_daty/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T24 Formatowanie_daty/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T24 Formatowanie_daty/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T24b Parsowanie_daty/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T24b Parsowanie_daty/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T24b Parsowanie_daty/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T24c Porównywanie_dat/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T24c Porównywanie_dat/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/T24 Funkcje_wbudowane/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/T24 Funkcje_wbudowane/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +46,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
-        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -114,7 +121,7 @@
       <workItem from="1671693057669" duration="3718000" />
       <workItem from="1672646710894" duration="4143000" />
       <workItem from="1672746450355" duration="2292000" />
-      <workItem from="1673250887910" duration="407000" />
+      <workItem from="1673250887910" duration="4957000" />
     </task>
     <task id="LOCAL-00001" summary="dziala?">
       <created>1667552819970</created>
@@ -249,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672748735994</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Poprawiona data_czas">
+      <created>1673251346279</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1673251346279</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,6 +301,7 @@
     <MESSAGE value="funkcjeTT" />
     <MESSAGE value="BMI" />
     <MESSAGE value="czas" />
-    <option name="LAST_COMMIT_MESSAGE" value="czas" />
+    <MESSAGE value="Poprawiona data_czas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Poprawiona data_czas" />
   </component>
 </project>
