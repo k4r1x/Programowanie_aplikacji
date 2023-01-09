@@ -31,7 +31,7 @@ function dni(rokObc, rokUzy){
             } else{
                 wynikDni += 365;
             }
-            rokObc--;
+            rokUzy--;
         }
     }
     return wynikDni;
