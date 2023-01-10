@@ -14,12 +14,19 @@ if(today.getMonth() === birthdate.getMonth() && today.getDate() === birthdate.ge
 }
 
 
-const imie1 = document.querySelector('#imie1');
-const imie2 = document.querySelector('#imie2');
-const urodziny1 = document.querySelector('#urodziny1');
-const urodziny2 = document.querySelector('#urodziny2');
 const wynik = document.querySelector('#wynik');
 const btn = document.querySelector('button');
 btn.addEventListener('click', function(){
+    let imie1 = document.querySelector('#imie1').value;
+    let imie2 = document.querySelector('#imie2').value;
+    const urodziny1 = new Date(document.querySelector('#urodziny1').value);
+    const urodziny2 = new Date(document.querySelector('#urodziny2').value);
 
+    if(urodziny1.getTime() <  urodziny2.getTime()){
+        wynik.innerHTML = `${imie1} jest starszy/a!`;
+    } else if(urodziny2.getTime() < urodziny1.getTime()){
+        wynik.innerHTML = `${imie2} jest starszy/a!`;
+    } else{
+        wynik.innerHTML = `Jesteście w tym samym wieku!`;
+    }
 });
